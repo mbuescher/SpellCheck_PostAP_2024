@@ -8,7 +8,7 @@ Java files:
 
 Word Lists
 *  popular.txt is a list of about 26,000 words
-*  large.txt is a list of about 143,000 words (thanks, CS50)
+*  large.txt is a list of about 143,000 words (thanks, CS50). Includes proper nouns and possessives.
 
 Texts to Spell Check
 *  26WestReview.txt   is a simple restaurant review with mostly legit words
