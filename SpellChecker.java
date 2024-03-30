@@ -113,8 +113,8 @@ public class SpellChecker
     
     public static void main (String[] args)
     {
-        SpellChecker tester = new SpellChecker("popular.txt");
-        //tester.testWords();
+        SpellChecker tester = new SpellChecker("popular.txt");  // large.txt is a bigger dictionary
+        tester.testWords();
         
         //tester.spellCheck("alice_in_wonderland.txt");
         tester.report();

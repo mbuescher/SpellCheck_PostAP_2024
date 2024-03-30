@@ -29,6 +29,7 @@ public class MyHashTable
     public int getKey (String str)
     {
         // Replace this with a more useful function!
+        // The current version will make a terrible hash table
         return 3;
     }
 
